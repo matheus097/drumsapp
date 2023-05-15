@@ -1,3 +1,4 @@
 # drumsapp
 A web drums
-![Captura de Tela (4)](https://github.com/matheus097/drumsapp/assets/60636732/b753741b-4361-456f-8993-91eb91915a98)
+
+![Captura de Tela (7)](https://github.com/matheus097/drumsapp/assets/60636732/cb33a561-df0a-490e-830a-8d762e846532)
