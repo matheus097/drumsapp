@@ -1,2 +1,2 @@
 # drumsapp
-this is a drum in web
+this is a web drums
